@@ -7,8 +7,8 @@ Ecology &amp; Evolution
 * Beast2 http://www.beast2.org/
 * DataMonkey Server https://www.datamonkey.org/
 * Modern ML tree methods<br> PhyML<br>  https://academic.oup.com/nar/article/33/suppl_2/W557/2505422<br>http://www.atgc-montpellier.fr/phyml/<br>http://phylogeny.lirmm.fr/phylo_cgi/one_task.cgi?task_type=phyml<br>GARLI<br>http://www.bio.utexas.edu/faculty/antisense/garli/Garli.html<br> GAML<br> http://www.phylo.org/pdf_docs/lewis_1998b.pdf<br>RAxML<br>https://sco.h-its.org/exelixis/software.html<br>SIMPLOT<br>https://sray.med.som.jhmi.edu/scroftware/simplot/<br> 
-* Neighbor-Joining (NJ)<br>PAUP*<br>http://paup.sc.fsu.edu/index.html<br>
-* Bayesian Markov Chain Monte Carlo (BMCMC)<br>http://mrbayes.sourceforge.net/index.php
+* Neighbor-Joining (NJ) Infering Tree <br>PAUP*<br>http://paup.sc.fsu.edu/index.html<br>
+* Bayesian Markov Chain Monte Carlo (BMCMC) Infering Tree <br>http://mrbayes.sourceforge.net/index.php
 * RNA Structure<br>https://www.tbi.univie.ac.at/RNA/
 * Breakpoint Positions<br>http://apt.cs.manchester.ac.uk/projects/tools/lard/install.html
 * Mosaic Detection <br> Recombination Detection
