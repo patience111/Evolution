@@ -18,3 +18,5 @@ Ecology &amp; Evolution
 ## Classics
 * The Comparative Method in Evolutionary Biology https://www.amazon.com/Comparative-Evolutionary-Biology-Ecology-Evolution/dp/0198546408
 
+## Conference & Workshops
+* International Bioinformatics Workshop<br> https://rega.kuleuven.be/cev/veme-workshop/2018
