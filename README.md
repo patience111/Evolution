@@ -6,6 +6,9 @@ Ecology &amp; Evolution
 * Jeremy Yoder http://jbyoder.org/
 * Nature ecology & evolution <br>https://natureecoevocommunity.nature.com/
 * Molecular evolution,phylogenetics and epidemiology<br>http://tree.bio.ed.ac.uk/
+* Phylogeographic Inference and Visualization<br> https://www.kuleuven.be/aidslab/phylogeography/home.html
+* NIH EEID<br>https://www.fic.nih.gov/programs/Pages/ecology-infectious-diseases.aspx
+* Adaptation Clearinghouse<br> http://www.adaptationclearinghouse.org/resources/ecology-and-evolution-of-infectious-diseases-initiative.html
 ## Tools
 * Beast2 http://www.beast2.org/
 * DataMonkey Server https://www.datamonkey.org/
