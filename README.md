@@ -1,6 +1,7 @@
 # Evolution
 Ecology &amp; Evolution
 ## Blogs & Websites & Communities
+* Emergence, Evolution and Epidemiology of Novel Human Viral Pathogens<br>http://epidemic.bio.ed.ac.uk/
 * The Molecular Ecologist http://www.molecularecologist.com/
 * Jeremy Yoder http://jbyoder.org/
 * Nature ecology & evolution <br>https://natureecoevocommunity.nature.com/
