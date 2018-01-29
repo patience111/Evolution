@@ -9,6 +9,7 @@ Ecology &amp; Evolution
 * Phylogeographic Inference and Visualization<br> https://www.kuleuven.be/aidslab/phylogeography/home.html
 * NIH EEID<br>https://www.fic.nih.gov/programs/Pages/ecology-infectious-diseases.aspx
 * Adaptation Clearinghouse<br> http://www.adaptationclearinghouse.org/resources/ecology-and-evolution-of-infectious-diseases-initiative.html
+* Presentations from CCE 2016 Mini-Symposium<br>https://www.compevol.auckland.ac.nz/en/videos/2016-mini-symposium.html
 ## Tools
 * Beast2 http://www.beast2.org/
 * DataMonkey Server https://www.datamonkey.org/
