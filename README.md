@@ -26,3 +26,4 @@ Ecology &amp; Evolution
 
 ## Conference & Workshops
 * International Bioinformatics Workshop<br> https://rega.kuleuven.be/cev/veme-workshop/2018
+* Taming the Beast 2018<br>https://www.bsse.ethz.ch/cevo/taming-the-beast/overview-2018.html
